@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/愚人.md",
+                "file": "pages/塔罗牌.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/愚人.md",
+                "file": "pages/塔罗牌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/愚人.md",
+                "file": "pages/塔罗牌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/愚人.md"
+                "file": "pages/塔罗牌.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "d0e6e91e486da68a",
   "lastOpenFiles": [
-    "pages/塔罗牌.md",
     "pages/愚人.md",
+    "assets/image-20230501132439242.png",
+    "pages/塔罗牌.md",
     "journals/2023-05-01.md",
     "pages/设置图片格式.md",
     "assets/image-20230501104046253.png",
@@ -174,7 +175,6 @@
     "assets/笔记",
     "image-20230501000620038.png",
     "image-20230501000455056.png",
-    "pages/assets/笔记/image-20230501000348512.png",
     "pages/assets/笔记",
     "pages/assets",
     "logseq/bak/pages/笔记/2023-04-30T15_56_39.396Z.Desktop.md",
