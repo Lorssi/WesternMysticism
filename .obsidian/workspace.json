@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/设置图片格式.md",
+                "file": "pages/愚人.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/设置图片格式.md",
+                "file": "pages/愚人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/设置图片格式.md",
+                "file": "pages/愚人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/设置图片格式.md"
+                "file": "pages/愚人.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "d0e6e91e486da68a",
   "lastOpenFiles": [
+    "journals/2023-05-01.md",
     "pages/设置图片格式.md",
     "pages/笔记.md",
-    "journals/2023-05-01.md",
     "assets/image-20230501104046253.png",
     "assets/image-20230501104016362.png",
     "assets/image-20230501103916528.png",
